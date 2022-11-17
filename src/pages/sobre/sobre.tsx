@@ -15,7 +15,7 @@ export default function Sobre() {
                     />
 
                     <Text style={styles.textSobreApi}>Os calculos feitos para simulação estão disponibilisados no github do projeto
-                        <Text style={{ color: '#c37735' }} onPress={() => Linking.openURL('https://free.currencyconverterapi.com/')}> aqui</Text>
+                        <Text style={{ color: '#c37735' }} onPress={() => Linking.openURL('https://github.com/HigorMichelotti/financing-calculator-react-native')}> aqui</Text>
                     </Text>
 
                     <Text style={styles.textSobreDesenvolvedor}>Sobre o desenvolvedor</Text>
